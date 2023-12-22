@@ -1,2 +1,3 @@
 # ExercicioModulo1_CursoPHP
-exercicio do modulo 1 do curso de php do professor Jefferson
+
+Módulo I - Desenvolvimento Web com HTML, CSS e Bootstrap
